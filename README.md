@@ -29,3 +29,7 @@ This Power BI dashboard provides an in-depth analysis of sales and profit data f
 
 - Slicers for Region, Month, and Year enable users to filter data dynamically.
 - Allows users to drill down into specific time periods or focus on particular geographies for targeted analysis.
+
+### DASHBOARD
+
+![Superstore Dashboard](/Images/Dashboard.jpg)
