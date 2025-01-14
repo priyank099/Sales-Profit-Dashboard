@@ -1,4 +1,4 @@
-# Sales and Profit Dashboard
+# Superstore Sales and Profit Dashboard
 
 This Power BI dashboard provides an in-depth analysis of sales and profit data from 2012 to 2015, categorized by product, region, and market. It is designed to deliver actionable insights with easy-to-use slicers for interactive exploration.
 
